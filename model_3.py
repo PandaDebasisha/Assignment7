@@ -1,5 +1,5 @@
+import torch.nn as nn
 import torch.nn.functional as F
-dropout_value = 0.05
 dropout_value1 = 0.1
 
 class Net(nn.Module):
