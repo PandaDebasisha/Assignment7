@@ -270,7 +270,7 @@ Forward/backward pass size (MB): 0.56
 Params size (MB): 0.03
 Estimated Total Size (MB): 0.60
 ```
-## Logs from local model run
+## Logs
 ```
 EPOCH: 1
 Loss=0.10382454842329025 Batch_id=468 Accuracy=93.60: 100%|██████████| 469/469 [00:06<00:00, 72.35it/s]  
